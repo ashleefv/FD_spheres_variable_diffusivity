@@ -10,12 +10,10 @@ This code solves the PDE for Fickian diffusion with variable diffusivity within 
 
 ## Finite Difference Discretization Scheme for Spherical Diffusion with Variable Diffusivity
 ### Authors
-Ashlee N. Ford Versypt 
-School of Chemical Engineering, Oklahoma State University
+Ashlee N. Ford Versypt, School of Chemical Engineering, Oklahoma State University
 ashleefv@okstate.edu
 
-Richard D. Braatz
-Department of Chemical Engineering, Massachusetts Institute of Technology
+Richard D. Braatz, Department of Chemical Engineering, Massachusetts Institute of Technology
 braatz@mit.edu
 
 ## Reference
