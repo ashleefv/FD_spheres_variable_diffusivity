@@ -17,6 +17,8 @@ Richard D. Braatz, Department of Chemical Engineering, Massachusetts Institute o
 braatz@mit.edu
 
 ## Reference
+When using this software, please cite:
+
 A. N. Ford Versypt & R. D. Braatz, Analysis of finite difference discretization schemes for diffusion in spheres with variable diffusivity, Computers & Chemical Engineering, 71 (2014) 241-252, https://doi.org/10.1016/j.compchemeng.2014.05.022
 
 ## Diffusivity cases (defined computationally in FD_spheres_variable_diffusivity.m)
