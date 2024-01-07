@@ -9,12 +9,9 @@ Finite difference discretization scheme for diffusion in a sphere with variable 
 This code solves the PDE for Fickian diffusion with variable diffusivity within a radially symmetric sphere. The PDE is solved numerically using method of lines, the spherical finite difference discretization scheme defined and analyzed in the reference, and any built-in MATLAB ODE solver. Examples are provided for variable diffusivity cases I-IV presented in the reference listed below. The use of ode45 solver is shown in this code. Any ODE solver could be selected.
 
 ## Finite Difference Discretization Scheme for Spherical Diffusion with Variable Diffusivity
-### Authors
+### Code Author
 Ashlee N. Ford Versypt, School of Chemical Engineering, Oklahoma State University
 ashleefv@okstate.edu
-
-Richard D. Braatz, Department of Chemical Engineering, Massachusetts Institute of Technology
-braatz@mit.edu
 
 ## Reference
 When using this software, please cite:
